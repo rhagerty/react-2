@@ -1,0 +1,11 @@
+.card {
+    padding: 20px;
+    text-align: center;
+}
+
+button{
+    margin: 10px;
+    margin-bottom: 5px;
+    padding: 10px 15px;
+    background-color: rgba(128, 128, 128, 0.4);
+}

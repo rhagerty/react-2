@@ -1,0 +1,26 @@
+h3{
+    text-align: center;
+}
+
+form {
+    background-color: #101010d1;
+    color: #f0f2f5;
+    box-sizing: border-box;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+
+::-webkit-input-placeholder {
+    font-style: italic;
+    color: grey;
+ }
+ :-moz-placeholder {
+    font-style: italic;  
+ }
+ ::-moz-placeholder {
+    font-style: italic;  
+ }
+ :-ms-input-placeholder {  
+    font-style: italic; 
+ }
